@@ -7,12 +7,6 @@ This assignment is part of my Deep Learning module at NED University, as part of
 I followed the structure of the original notebook (available [here](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/first_edition/6.4-sequence-processing-with-convnets.ipynb)) and modified the architecture and parameters to better suit the datasets and improve model performance.
 
 
-# CNN Architecture
-
-This is the Convolutional Neural Network architecture used in the project.
-
-![CNN Architecture](cnn.png)
-
 
 ## Dataset and Approach
 
