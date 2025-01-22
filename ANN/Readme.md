@@ -1,4 +1,4 @@
-# Churn Prediction with ANN
+# ANN (CHURN PREDICTION)
 
 This project uses an Artificial Neural Network (ANN) to predict customer churn. The notebook demonstrates the implementation of an ANN for churn prediction using a dataset of customer information.
 
